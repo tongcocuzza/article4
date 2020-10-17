@@ -1,5 +1,28 @@
+body {
+    margin: 3em;
+}
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+p {
+    font-size: 1.5em;
+}
+ul {
+    list-style-type: none;
+    font-size: 1.25em;
+}
+
+ol {
+    font-size: 1.25em;
+}
+
 img {
     float: left;
     margin-right: 2em;
     margin-bottom: 0.5em;
+    shape-outside: circle();
 }
